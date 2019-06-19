@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/chegreyev/Assigments_Java/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Structure
 
-Structure:
 Every assigment have some class or packages with test class , so check the test class before if it exists
 
 ```markdown
